@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class Notes 7A Hash Tables", "Class Notes 7A Hash Tables\Class Notes 7A Hash Tables.vcxproj", "{715160E3-ADC7-4E73-BD92-E800BAED3C4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{715160E3-ADC7-4E73-BD92-E800BAED3C4A}.Debug|x64.ActiveCfg = Debug|x64
+		{715160E3-ADC7-4E73-BD92-E800BAED3C4A}.Debug|x64.Build.0 = Debug|x64
+		{715160E3-ADC7-4E73-BD92-E800BAED3C4A}.Debug|x86.ActiveCfg = Debug|Win32
+		{715160E3-ADC7-4E73-BD92-E800BAED3C4A}.Debug|x86.Build.0 = Debug|Win32
+		{715160E3-ADC7-4E73-BD92-E800BAED3C4A}.Release|x64.ActiveCfg = Release|x64
+		{715160E3-ADC7-4E73-BD92-E800BAED3C4A}.Release|x64.Build.0 = Release|x64
+		{715160E3-ADC7-4E73-BD92-E800BAED3C4A}.Release|x86.ActiveCfg = Release|Win32
+		{715160E3-ADC7-4E73-BD92-E800BAED3C4A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92245D77-859B-443A-BCF7-F09F8A28637E}
+	EndGlobalSection
+EndGlobal
