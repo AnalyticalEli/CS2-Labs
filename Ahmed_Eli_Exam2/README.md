@@ -1,2 +1,2 @@
-                                                                  --READ ABOVE NOTES--
-                                                                   --^^THREE DOTS^^--
+                                                                  -- ^ READ ABOVE NOTES ^ --
+                                                                     -- THREE DOTS --
